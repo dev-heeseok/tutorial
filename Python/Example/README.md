@@ -16,3 +16,5 @@ Document Python Example
 ## File module
 
 Python 에서는 File 을 Handling 하기 위해 다양한 Utility 를 지원하고 있다. 특히 **shutil module** 은 File copy, move 등 쉽게 사용할 수 있도록 기능을 지원해 주고 있다.
+
+[file stream 샘플](.\file.py)
